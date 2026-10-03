@@ -3,7 +3,7 @@
 Trabajo Fin de Máster · Máster en IA Aplicada a Aplicaciones Sanitarias · Edición 2025-2026
 **Autora:** Maribel Villagrasa
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maribelvillagrasa-star/tfm-riesgo-cardiovascular-genero/blob/main/notebooks/tfm_riesgo_cardiovascular.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maribelvillagrasa-star/tfm-riesgo-cardiovascular-genero/blob/main/notebooks/tfm_riesgo_cardiovascular_genero.ipynb)
 
 ## Descripción
 
@@ -20,7 +20,7 @@ El dataset no fue diseñado para estudiar diferencias entre hombres y mujeres: s
 ├── data/
 │   └── heart.csv           # UCI Heart Disease (Cleveland), CC BY 4.0
 └── notebooks/
-    └── tfm_riesgo_cardiovascular.ipynb
+    └── tfm_riesgo_cardiovascular_genero.ipynb
 ```
 
 ## Correspondencia con la memoria
@@ -46,7 +46,7 @@ El dataset no fue diseñado para estudiar diferencias entre hombres y mujeres: s
 
 ```bash
 git clone https://github.com/maribelvillagrasa-star/tfm-riesgo-cardiovascular-genero.git
-cd tfm-riesgo-cardiovascular-genero
+cd tfm_riesgo_cardiovascular_genero
 pip install -r requirements.txt
 jupyter notebook notebooks/tfm_riesgo_cardiovascular.ipynb
 ```
