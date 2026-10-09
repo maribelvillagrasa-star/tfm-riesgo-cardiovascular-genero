@@ -1,4 +1,4 @@
-# Predicción de riesgo cardiovascular mediante IA: una perspectiva de género
+# Clasificación de enfermedad cardiovascular mediante IA: una perspectiva de género
 
 Trabajo Fin de Máster · Máster en IA Aplicada a Aplicaciones Sanitarias · Edición 2025-2026
 **Autora:** Maribel Villagrasa
